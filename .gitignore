@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+
+# generated at runtime, contain data from the machine it ran on
+connections.json
+report.json
